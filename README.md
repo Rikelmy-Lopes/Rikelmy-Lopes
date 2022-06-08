@@ -1,4 +1,4 @@
-### Hi! I'm Rikelmy, I'm a Web Developer👋
+### Hi! I'm Rikelmy, I'm a Full Stack Web Developer👋
 
 ##
 
