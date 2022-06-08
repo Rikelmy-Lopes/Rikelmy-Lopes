@@ -1,5 +1,9 @@
 ### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px"> ! I'm Rikelmy, I'm a Full Stack Web Developer
 
+<br>
+
+- I’m currently studying at [Trybe](https://www.betrybe.com/)
+
 ##
 
 ## ⚙️ &nbsp;GitHub Analytics
