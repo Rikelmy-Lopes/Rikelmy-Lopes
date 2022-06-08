@@ -1,4 +1,4 @@
-### Hi! I'm Rikelmy, I'm a Full Stack Web Developer👋
+### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> ! I'm Rikelmy, I'm a Full Stack Web Developer
 
 ##
 
