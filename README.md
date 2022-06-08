@@ -1,4 +1,4 @@
-### Ola!!! Meu nome é Rikelmy, Desenvolvedor Web em Formação 👋
+### Hi! I'm Rikelmy, I'm a Web Developer👋
 
 ##
 
