@@ -1,8 +1,8 @@
-### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px"> ! I'm Rikelmy, I'm a Full Stack Web Developer
+### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Eu sou o Rikelmy Lopes, Full Stack Web Developer
 
 <br>
 
-- I’m currently studying at [Trybe](https://www.betrybe.com/)
+- Atualmente estou estudando na [Trybe](https://www.betrybe.com/)
 
 ##
 
