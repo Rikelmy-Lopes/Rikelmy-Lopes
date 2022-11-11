@@ -1,4 +1,4 @@
-### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Eu sou o Rikelmy Lopes, Full Stack Web Developer
+### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Eu sou o Rikelmy Lopes, Back-end Developer
 
 <br>
 
