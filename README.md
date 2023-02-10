@@ -28,6 +28,10 @@ Minhas habilidades incluem: Javascript, Typescript, Nodejs, ExpressJs, Mysql, se
 <img height='30em' src='https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue' />
 <img height='30em' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
 <img height='30em' src='https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+<img height='30em' src='https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink' />
+<img height='30em' src='https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brow' />
+<img height='30em' src='https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red' />
+<img height='30em' src='https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon' />
 <img height='30em' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
 <img height='30em' src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
 </div>
