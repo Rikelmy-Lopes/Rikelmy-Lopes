@@ -6,7 +6,7 @@ Sou um desenvolvedor Back-end apaixonado por tecnologia e sempre em busca de nov
 
 Minhas habilidades incluem: Javascript, Typescript, Nodejs, ExpressJs, Mysql, Sequelize, Mongodb, Moongose, Mocha, Chai, Sinon, Programação orientada a objetos e Docker. Além disso, tenho experiência com desenvolvimento de API's RESTful, integração com banco de dados e testes unitários e de Integração!
 
-### Se você quiser saber mais sobre a minha experiência técnica, de uma olhada nos meus projetos fixados!
+### Se você quiser saber mais sobre os meus conhecimentos técnicos, de uma olhada nos meus projetos fixados!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
