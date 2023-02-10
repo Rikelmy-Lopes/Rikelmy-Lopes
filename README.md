@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor Back-end apaixonado por tecnologia e sempre em busca de novos desafios. Possuo formação através do curso da [Trybe](https://www.betrybe.com/), onde completei mais de 30 projetos, dos quais 4 foram realizados em grupo, fortalecendo minhas habilidades técnicas e desenvolvendo minhas soft skills.
 
-Minhas habilidades incluem: Javascript, Typescript, Nodejs, ExpressJs, Mysql, sequelize, mongodb, moongose, programação orientada a objetos e docker.
+Minhas habilidades incluem: Javascript, Typescript, Nodejs, ExpressJs, Mysql, sequelize, mongodb, moongose, programação orientada a objetos e docker. Além disso, tenho experiência com desenvolvimento de API's RESTful, integração com banco de dados e testes unitários e de Integração!
 
 
 ##
