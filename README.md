@@ -1,5 +1,5 @@
-### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Meu nome é Rikelmy, Back-end Developer!
-
+### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Meu nome é Rikelmy, 
+Desenvolvedor de Software!
 <br>
 
 Sou um desenvolvedor Back-end apaixonado por tecnologia e sempre em busca de novos desafios. Possuo formação através do curso da [Trybe](https://www.betrybe.com/), onde completei mais de 30 projetos, dos quais 4 foram realizados em grupo, fortalecendo minhas habilidades técnicas e desenvolvendo minhas soft skills.
