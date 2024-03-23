@@ -1,10 +1,7 @@
-### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Meu nome é Rikelmy, 
-Desenvolvedor de Software!
+### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Meu nome é Rikelmy, Desenvolvedor de Software!
 <br>
 
-Sou um desenvolvedor Back-end apaixonado por tecnologia e sempre em busca de novos desafios. Possuo formação através do curso da [Trybe](https://www.betrybe.com/), onde completei mais de 30 projetos, dos quais 4 foram realizados em grupo, fortalecendo minhas habilidades técnicas e desenvolvendo minhas soft skills.
-
-Minhas habilidades incluem: Javascript, Typescript, Nodejs, ExpressJs, Mysql, Sequelize, Mongodb, Moongose, Mocha, Chai, Sinon, Programação orientada a objetos e Docker. Além disso, tenho experiência com desenvolvimento de API's RESTful, integração com banco de dados e testes unitários e de Integração!
+Sou um desenvolvedor de software apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou cursando Bacharelado em Ciência da Computação. Possuo habilidades técnicas em Javascript, Typescript, Node.js, SQL, NoSQL POO, Docker e testes unitários
 
 ### Se você quiser saber mais sobre os meus conhecimentos técnicos, de uma olhada nos meus projetos fixados!
 
