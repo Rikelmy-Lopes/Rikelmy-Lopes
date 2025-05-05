@@ -1,9 +1,9 @@
-### Ola<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! Meu nome é Rikelmy, Desenvolvedor de Software!
+### Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! My name is Rikelmy, Software Developer!
 <br>
 
-Sou um desenvolvedor de software apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou cursando Bacharelado em Ciência da Computação. Possuo habilidades técnicas em Javascript, Typescript, Node.js, SQL, NoSQL POO, Docker e testes unitários
+I’m a software developer passionate about technology and always looking for new challenges. I’m currently pursuing a Bachelor's degree in Computer Science. I have technical skills in JavaScript, TypeScript, Node.js, Java, SQL, NoSQL, OOP, Docker, and unit testing.
 
-### Se você quiser saber mais sobre os meus conhecimentos técnicos, de uma olhada nos meus projetos fixados!
+### If you want to know more about my technical skills, take a look at my pinned projects!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
