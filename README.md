@@ -1,4 +1,4 @@
-### Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">! My name is Rikelmy, Software Developer!
+### Hello!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10%"> My name is Rikelmy, Software Developer!
 <br>
 
 I’m a software developer passionate about technology and always looking for new challenges. I’m currently pursuing a Bachelor's degree in Computer Science. I have technical skills in JavaScript, TypeScript, Node.js, Java, SQL, NoSQL, OOP, Docker, and unit testing.
