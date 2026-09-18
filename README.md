@@ -16,15 +16,16 @@ I’m a software developer passionate about technology and always looking for ne
 ## 🛠 &nbsp;Tech Stack
 
 <div>
-<img height='30em' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
 <img height='30em' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
 <img height='30em' src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
+<img height='30em' src='https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff' />
 <img height='30em' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
 <img height='30em' src='https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white' />
-<img height='30em' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
-<img height='30em' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+<img height='30em' src='https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white' />
 <img height='30em' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
 <img height='30em' src='https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624' />
+<img height='30em' src='https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff' />
+<img height='30em' src='https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white' />
 </div>
                          
 ## 👨🏽‍🦲 &nbsp;Social Links  
